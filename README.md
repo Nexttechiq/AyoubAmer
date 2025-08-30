@@ -12,5 +12,5 @@
 -💙 Join the account to see more videos like this. [Nexttechiq](https://www.instagram.com/nexttechiq/)
 
 ## 📸 Website Preview
-![Website Preview](Home.png)
+![Website Preview](Home.jpg)
 
