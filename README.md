@@ -9,7 +9,7 @@
 - Compatible with all mobile devices, tablets, and desktops.
 - Smooth animations & hover effects for interactive design.
 - Clean and well-structured code for easy customization.
--💙 Join the account to see more videos like this. [Nexttechiq](https://www.instagram.com/nexttechiq/)
+-Join the account to see more videos like this ##[Nexttechiq](https://www.instagram.com/nexttechiq/) 💙
 
 ## 📸 Website Preview
 ![Website Preview](Home.jpg)
